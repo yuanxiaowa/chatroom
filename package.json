@@ -1,0 +1,23 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanxiaowa/chatroom.git"
+  },
+  "author": "ody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanxiaowa/chatroom/issues"
+  },
+  "homepage": "https://github.com/yuanxiaowa/chatroom#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}
